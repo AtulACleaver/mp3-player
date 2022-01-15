@@ -12,7 +12,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    --bg: #79bed9;
+    --bg: #5B378F;
     background-color: var(--bg);
     color: white;
 }
